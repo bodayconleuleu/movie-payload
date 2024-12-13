@@ -8,7 +8,7 @@
 
 /.idea/*
 !/.idea/runConfigurations
-
+.history
 # testing
 /coverage
 
